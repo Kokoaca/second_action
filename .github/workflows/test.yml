@@ -1,5 +1,5 @@
 name: Python-Test
-on: [push, work_daispatch] 
+on: push
 # 이런식으로 push에서 이벤트 추가가능
 jobs:
   test:
